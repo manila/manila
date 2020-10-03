@@ -1,7 +1,19 @@
-### Hey There, I'm Manuel Nila 👋
-
+## Hey There, I'm Manuel Nila 👋
 
 <!--
+
+### Where I hang out
+
+- Mastodon.technology (@manila)
+- irc.freenode.net (#manila)
+
+### 📑 Website Mirrors
+
+- Github (manila.github.io)
+- Keybase (manila.keybase.pub)
+- Glitch (manila.glitch.me)
+- Tilde.club (tilde.club/~manila)
+
 **manila/manila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
