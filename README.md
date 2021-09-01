@@ -1,11 +1,34 @@
-## Hey There, I'm Manuel Nila 👋
+# Hey There, I'm Manuel Nila 👋
+
+### 🤔 What's your deal?
+
+- [I like making digital art](https://github.com/manila/make-waves)
+- [I mod minecraft](https://github.com/manila/majority-sleep-fabric/tree/master/src/main)
+- [I'm bad at pixel art](https://github.com/manila/block-push/blob/master/block-push.lisp)
+- [I like to use linux](https://github.com/manila/dotfiles)
+- [I like to learn things](https://github.com/manila/cryptopals)
+
+### 📮 Want to chat?
+
+You can send me an email at hey@manila.me
+
+### 🕵🏽‍♂️ You can also find me on...
+
+- [glitch.me/@manila](https://glitch.com/@manila)
+
+### 📑 Website Mirrors
+
+- [Github](manila.github.io)
+- [Keybase](manila.keybase.pub)
+- [Glitch](manila.glitch.me)
+- [Tilde.club](tilde.club/~manila)
+
 
 <!--
 
-### Where I hang out
+### You can also find me on...
 
-- Mastodon.technology (@manila)
-- irc.freenode.net (#manila)
+- [glitch.me/@manila] (https://glitch.com/@manila)
 
 ### 📑 Website Mirrors
 
