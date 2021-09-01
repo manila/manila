@@ -3,8 +3,8 @@
 ### 🤔 What's your deal?
 
 - [I like making digital art](https://github.com/manila/make-waves)
-- [I mod minecraft](https://github.com/manila/majority-sleep-fabric/tree/master/src/main)
-- [I'm bad at pixel art](https://github.com/manila/block-push/blob/master/block-push.lisp)
+- [I mod minecraft](https://github.com/manila/majority-sleep-fabric)
+- [I'm bad at pixel art](https://github.com/manila/block-push)
 - [I like to use linux](https://github.com/manila/dotfiles)
 - [I like to learn things](https://github.com/manila/cryptopals)
 
