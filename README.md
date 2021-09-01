@@ -6,7 +6,7 @@
 - [I mod minecraft](https://github.com/manila/majority-sleep-fabric)
 - [I'm bad at pixel art](https://github.com/manila/block-push)
 - [I like to use linux](https://github.com/manila/dotfiles)
-- [I like to learn things](https://github.com/manila/cryptopals)
+- [I like to learn things](https://github.com/manila/c0d3-curriculum)
 
 ### 📮 Want to chat?
 
