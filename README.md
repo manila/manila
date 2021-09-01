@@ -21,4 +21,3 @@ You can send me an email at hey@manila.me
 - [Github](https://manila.github.io)
 - [Glitch](https://manila.glitch.me)
 - [Tilde.club](https://tilde.club/~manila)
-- 
