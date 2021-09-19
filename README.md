@@ -1,5 +1,7 @@
 # Hey There, I'm Manuel Nila 👋
 
+I'm currenty a participant at [The Recurse Center](https://recurse.com)
+
 ### 🤔 What's your deal?
 
 - [I like making digital art](https://github.com/manila/make-waves)
