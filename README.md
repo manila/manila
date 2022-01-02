@@ -1,6 +1,6 @@
 # Hey There, I'm Manuel Nila 👋
 
-I'm currenty a participant at [The Recurse Center](https://recurse.com)
+I'm an alumni of [The Recurse Center](https://recurse.com)
 
 ### 🤔 What's your deal?
 
