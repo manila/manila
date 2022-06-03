@@ -12,5 +12,3 @@ V_/     \_/``\_/  \_/ V_/ V_____/``\_\
 
 (⌐■_■)
 ```
-
-I'm an aspiring Software Engineer and now a never-graduated alum of [The Recurse Center](https://recurse.com)!
