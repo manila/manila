@@ -30,5 +30,10 @@ jobs:
         run: man ./manila.7 | col -bx > README.md
 
       # Runs a set of commands using the runners shell
-      - name: Echo README.md
-        run: cat README.md
+      - name: Commit new README.md
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Generated new README.md"
+          git push
