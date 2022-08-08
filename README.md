@@ -18,5 +18,5 @@ SEE ALSO
        https://manila.me
 
 
-                                   2022-09-02                 manila/README.md(7)
+                                   2022-09-02                manila/README.md(7)
 ```
