@@ -1,3 +1,4 @@
+```
 manila(7)              Miscellaneous Information Manual              manila(7)
 
 NAME
@@ -17,3 +18,4 @@ SEE ALSO
        https://manila.me
 
                                                                      manila(7)
+```
