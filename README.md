@@ -1,5 +1,5 @@
 ```
-manila.me(7)            Miscellaneous Information Manual            manila.me(7)
+github.com/manila(7)    Miscellaneous Information Manual   github.com/manila.me(7)
 
 NAME
           /\\/\\  /\\  /\\  /\\ /\\ /\\ /\\
@@ -18,5 +18,5 @@ SEE ALSO
        https://manila.me
 
 
-                                   2022-09-02                       manila.me(7)
+                                   2022-09-02             github.com/manila.me(7)
 ```
