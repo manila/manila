@@ -12,7 +12,7 @@ SYNOPSIS
 
 DESCRIPTION
        Hello!  I'm  Manuel Nila, I love exploring novel uses of technology and
-       buidling whimsical experiences.
+       building whimsical experiences.
 
 SEE ALSO
        https://manila.me
