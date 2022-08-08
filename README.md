@@ -1,5 +1,4 @@
-```
-manila/README.md(7)     Miscellaneous Information Manual     manila/README.md(7)
+manila(7)              Miscellaneous Information Manual              manila(7)
 
 NAME
           /\\/\\  /\\  /\\  /\\ /\\ /\\ /\\
@@ -9,14 +8,12 @@ NAME
 
 SYNOPSIS
        Manuel Nila - Programmer, Creator, and Artist.
-       
-DESCRIPTION 
-       I love exploring novel uses of technology and buidling whimsical
-       experiences.
+
+DESCRIPTION
+       Hello!  I'm  Manuel Nila. I love exploring novel uses of technology and
+       buidling whimsical experiences.
 
 SEE ALSO
        https://manila.me
 
-
-                                   2022-09-02                manila/README.md(7)
-```
+                                                                     manila(7)
