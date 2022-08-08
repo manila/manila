@@ -7,9 +7,12 @@ NAME
         // /\_/\ V /\ V /\ V /// /// /_V /\ \
         V_/     \_/``\_/  \_/ V_/ V_____/``\_\
 
-
+SYNOPSIS
+       Manuel Nila - Programmer, Creator, and Artist.
+       
 DESCRIPTION 
-       I'm Manuel Nila
+       I love exploring novel uses of technology and buidling whimsical
+       experiences.
 
 SEE ALSO
        https://manila.me
