@@ -17,5 +17,5 @@ DESCRIPTION
 SEE ALSO
        https://manila.me
 
-                                                                     manila(7)
+GNU                               2022-10-19                         manila(7)
 ```
