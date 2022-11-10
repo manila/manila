@@ -19,3 +19,4 @@ SEE ALSO
 
 GNU                               2022-10-19                         manila(7)
 ```
+<a rel="nofollow me" class="Link--primary" href="https://mastodon.social/@manila">https://mastodon.social/@manila</a>
