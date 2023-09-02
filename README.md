@@ -8,7 +8,7 @@ NAME
         V_/     \_/``\_/  \_/ V_/ V_____/``\_\
 
 SYNOPSIS
-       Manuel Nila - Programmer, Creator, and Artist.
+       Manuel Nila
 
 DESCRIPTION
        Hello! I'm Manuel Nila. I build things. Hire me :)
