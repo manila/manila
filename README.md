@@ -11,8 +11,7 @@ SYNOPSIS
        Manuel Nila - Programmer, Creator, and Artist.
 
 DESCRIPTION
-       Hello!  I'm  Manuel Nila, I love exploring novel uses of technology and
-       building whimsical experiences.
+       Hello! I'm Manuel Nila. I build things. Hire me :)
 
 SEE ALSO
        https://manila.me
