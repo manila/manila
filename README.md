@@ -8,7 +8,7 @@ NAME
         V_/     \_/``\_/  \_/ V_/ V_____/``\_\
 
 SYNOPSIS
-       Manuel Nila - Software Engineer
+       Manuel Nila
 
 DESCRIPTION
        I like to build things that help people build things
